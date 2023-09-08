@@ -4,10 +4,10 @@
 <p>С августа 2022 года изучаю веб разработку на курсах Яндекс Практикум. Ниже приведены некоторые из проектов, выполненные в рамках учебы:
   <ul>
     <li><b><a href="https://github.com/AlexanderMorugin/algososh-project">Визуализация работы алгоритмов</a></b><br>React, TypeScript, Jest, Cypress<br><br></li>
-    <li><b><a href="https://github.com/AlexanderMorugin/russian-travel">Stellar Burgers</a></b> - Многостраничное приложение космической бургерной с возможностью составить собственный бургер и сделать заказ. Реализована анимация, аутентификация и авторизация. Приложение не адаптировано под разные разрешения экранов.<br>React, React DnD, React Router, Redux, TypeScript<br>Посмотреть работу: https://alexandermorugin.github.io/react-burger/<br><br></li>    
+    <li><b><a href="https://github.com/AlexanderMorugin/russian-travel">Stellar Burgers</a></b> - Многостраничное приложение космической бургерной с возможностью составить собственный бургер и сделать заказ. Реализована анимация, аутентификация и авторизация. Приложение не адаптировано под разные разрешения экранов. Технологии: React, React DnD, React Router, Redux, TypeScript<br>Посмотреть работу: https://alexandermorugin.github.io/react-burger/<br><br></li>    
     <li><a href="https://github.com/ArturKaramov/mesto-project">Место - публикация фотографий</a>- HTML, CSS, JavaScript, ООП</li>
     <li><a href="https://github.com/ArturKaramov/choose-a-bike">Выбор велосипеды - лендинг</a> - HTML, CSS, Vanilla JS</li>
-    <li><b><a href="https://github.com/AlexanderMorugin/russian-travel">Путешествие по России</a></b> - лендинг.<br>HTML, CSS, Адаптивная верстка<br>Посмотреть работу: https://alexandermorugin.github.io/russian-travel/<br><br></li>
+    <li><b><a href="https://github.com/AlexanderMorugin/russian-travel">Путешествие по России</a></b> - Лендинг. Технологии: HTML, CSS, Адаптивная верстка<br>Посмотреть работу: https://alexandermorugin.github.io/russian-travel/<br><br></li>
     <li><a href="https://github.com/ArturKaramov/how-to-learn-plus">Научится учится - лендинг</a> - HTML, CSS</li>
   </ul>
 </p>
