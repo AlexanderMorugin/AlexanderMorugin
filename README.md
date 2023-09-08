@@ -6,9 +6,6 @@
 <b>Навыки</b>
 
 <p align="left">
-3 days ago
-
-update
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" />
   </a>
@@ -33,7 +30,4 @@ update
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" />
   </a>
-last week
-
-update
 </p>
