@@ -7,7 +7,7 @@
     <li><a href="https://github.com/ArturKaramov/react-burger">Stellar burgers - космические бургеры</a> - React, Redux, TypeScript</li>
     <li><a href="https://github.com/ArturKaramov/mesto-project">Место - публикация фотографий</a>- HTML, CSS, JavaScript, ООП</li>
     <li><a href="https://github.com/ArturKaramov/choose-a-bike">Выбор велосипеды - лендинг</a> - HTML, CSS, Vanilla JS</li>
-    <li><a href="https://github.com/AlexanderMorugin/russian-travel">Путешествие по России</a> - лендинг. Посмотреть работу: https://alexandermorugin.github.io/russian-travel/<br>HTML, CSS, Адаптивная верстка<br><br></li>
+    <li><b><a href="https://github.com/AlexanderMorugin/russian-travel">Путешествие по России</a></b> - лендинг.<br>HTML, CSS, Адаптивная верстка<br>Посмотреть работу: https://alexandermorugin.github.io/russian-travel/<br><br></li>
     <li><a href="https://github.com/ArturKaramov/how-to-learn-plus">Научится учится - лендинг</a> - HTML, CSS</li>
   </ul>
 </p>
