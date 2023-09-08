@@ -42,4 +42,4 @@
 
 <h3 align="left">Связаться со мной:</h3>
 
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/alexander_morugin) [![Email](https://img.shields.io/badge/-nobilis77%40bk.ru-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:nobilis@bk.ru)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/alexander_morugin) [![Email](https://img.shields.io/badge/-nobilis%40bk.ru-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:nobilis@bk.ru)
