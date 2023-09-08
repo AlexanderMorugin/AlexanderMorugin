@@ -11,7 +11,7 @@
   </ul>
 </p>
 
-<h3 align="left">Навыки:</h3>
+<b>Навыки:</b>
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
@@ -40,7 +40,7 @@
   </a>
 </p>
 
-<h3 align="left">Моя статистика:</h3>
+<b>Моя статистика:</b>
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexanderMorugin&theme=react" />
@@ -48,6 +48,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexanderMorugin&theme=react" />
 </div>
 
-<h3 align="left">Связаться со мной:</h3>
+<b>Связаться со мной:</b>
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/alexander_morugin) [![Email](https://img.shields.io/badge/-nobilis%40bk.ru-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:nobilis@bk.ru)
