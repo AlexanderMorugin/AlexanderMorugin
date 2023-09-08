@@ -11,7 +11,7 @@
   </ul>
 </p>
 
-<b>Навыки</b>
+<h3 align="left">Навыки:</h3>
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
@@ -39,6 +39,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" />
   </a>
 </p>
+
+<h3 align="left">Моя статистика:</h3>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexanderMorugin&theme=react" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexanderMorugin&theme=react" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexanderMorugin&theme=react" />
+</div>
 
 <h3 align="left">Связаться со мной:</h3>
 
