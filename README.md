@@ -4,8 +4,8 @@
 <p>С августа 2022 года изучаю веб разработку на курсах Яндекс Практикум. Ниже приведены некоторые из проектов, выполненные в рамках учебы:
   <ul>
     <li><b><a href="https://github.com/AlexanderMorugin/algososh-project">Визуализация работы алгоритмов</a></b><br>React, TypeScript, Jest, Cypress<br><br></li>
-    <li><b><a href="https://github.com/AlexanderMorugin/russian-travel">Stellar Burgers</a></b> - Многостраничное приложение космической бургерной с возможностью составить собственный бургер и сделать заказ. Реализована анимация, аутентификация и авторизация. Приложение не адаптировано под разные разрешения экранов. Технологии: React, React DnD, React Router, Redux, TypeScript<br>Посмотреть работу: https://alexandermorugin.github.io/react-burger/<br><br></li>    
-    <li><b><a href="https://github.com/AlexanderMorugin/mesto-project">Место - публикация фотографий</a></b>- HTML, CSS, JavaScript<br><br></li>
+    <li><b><a href="https://github.com/AlexanderMorugin/russian-travel">Stellar Burgers</a></b> - Многостраничное приложение космической бургерной с возможностью составить собственный бургер и сделать заказ. Реализована анимация, аутентификация и авторизация. Приложение не адаптировано под разные разрешения экранов. Технологии: React, React DnD, React Router, Redux, TypeScript, WebSocket<br>Посмотреть работу: https://alexandermorugin.github.io/react-burger/<br><br></li>    
+    <li><b><a href="https://github.com/AlexanderMorugin/mesto-project">Место</a></b> - Соцсеть фотографий.Технологии: HTML, CSS, JavaScript, Webpack, Адаптивная верстка<br><br></li>
     <li><b><a href="https://github.com/AlexanderMorugin/hard-01">Велосипеды</a></b> - Лендинг. Технологии: HTML, SASS, JavaScript, Адаптивная верстка<br>Посмотреть работу: https://alexandermorugin.github.io/hard-01/<br><br></li>
     <li><b><a href="https://github.com/AlexanderMorugin/russian-travel">Путешествие по России</a></b> - Лендинг. Технологии: HTML, CSS, Адаптивная верстка<br>Посмотреть работу: https://alexandermorugin.github.io/russian-travel/<br><br></li>
   </ul>
