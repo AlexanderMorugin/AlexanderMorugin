@@ -1,7 +1,16 @@
 <h1 align="center">Привет, меня зовут Александр <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">начинающий Frontend разработчик</h3>
 
-<p>С августа 2022 года изучаю веб разработку на курсах Яндекс Практикум.</p>
+<p>С августа 2022 года изучаю веб разработку на курсах Яндекс Практикум. Ниже приведены некоторые из проектов, выполненные в рамках учебы:</p>
+
+<ul>
+  <li><a href="https://github.com/ArturKaramov/algososh">Визуализация работы алгоритмов</a> - React, TypeScript</li>
+  <li><a href="https://github.com/ArturKaramov/react-burger">Stellar burgers - космические бургеры</a> - React, Redux, TypeScript</li>
+  <li><a href="https://github.com/ArturKaramov/mesto-project">Место - публикация фотографий</a>- HTML, CSS, JavaScript, ООП</li>
+  <li><a href="https://github.com/ArturKaramov/choose-a-bike">Выбор велосипеды - лендинг</a> - HTML, CSS, Vanilla JS</li>
+  <li><a href="https://github.com/ArturKaramov/russian-travel">Путешествие по России - лендинг</a> - HTML, CSS, Адаптивная верстка</li>
+  <li><a href="https://github.com/ArturKaramov/how-to-learn-plus">Научится учится - лендинг</a> - HTML, CSS</li>
+</ul>
 
 <b>Навыки</b>
 
