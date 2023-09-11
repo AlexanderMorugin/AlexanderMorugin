@@ -11,7 +11,7 @@
   </ul>
 </p>
 
-<b>Навыки:</b>
+<h3 align="left">Навыки:</h3>
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
