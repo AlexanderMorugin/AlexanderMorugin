@@ -51,7 +51,14 @@
 
 <h3 align="left">Связаться со мной:</h3>
 
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/alexander_morugin) [![Email](https://img.shields.io/badge/-nobilis%40bk.ru-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:nobilis@bk.ru)
+<p align="left">
+  <a href="https://t.me/alexander_morugin">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30">
+  </a>
+  <a href="mailto:nobilis@bk.ru">
+    <img src="https://img.shields.io/badge/Mail-red?logo=gmail&logoColor=white&style=for-the-badge" height="30">
+  </a>    
+</p>
 
 <h3 align="left">Моя статистика:</h3>
 
