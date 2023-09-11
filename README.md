@@ -67,3 +67,5 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexanderMorugin&theme=react" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexanderMorugin&theme=react" />
 </div>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexanderMorugin&theme=2077) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexanderMorugin&theme=2077)
