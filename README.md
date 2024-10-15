@@ -6,17 +6,22 @@
     <li><b><a href="https://github.com/AlexanderMorugin/pralinecakes-next-js">Действующий сайт на Next.js для кондитерской</a></b> - Настоящий многостраничный действующий сайт для кондитерской, изначально написанный на React, но затем переделанный на Next.js, для SEO продвижения. Технологии: Next.js, TypeScript.<br>Посмотреть работу: https://pralinecakes.ru/<br><br></li>
     <li><b><a href="https://github.com/AlexanderMorugin/pralinecakes-react">Пет проект на Реакте для кондитерской</a></b> - Многостраничный сайт для кондитерской, изначально созданный на React. Структурирован согласно методологии БЭМ Flat и адаптирован для различных разрешений экрана и браузеров. Технологии: React, React Router, TypeScript.<br>Посмотреть работу: https://pralinecakes.ru/<br><br></li>
     <li><b><a href="https://github.com/AlexanderMorugin/algososh-project">Визуализация работы алгоритмов</a></b> - Многостраничное приложение алгоритмов разворота строки, рассчета числа Фибоначчи, сортировки массива, стека, очереди, связного списка и принципы их работы. Для компонентов описаны Unit и E2E тесты. Технологии: React, React Router, TypeScript, Jest, Cypress<br>Посмотреть работу: https://alexandermorugin.github.io/algososh-project/<br><br></li>
-    <li><b><a href="https://github.com/AlexanderMorugin/react-burger">Stellar Burgers</a></b> - Многостраничное приложение космической бургерной с возможностью составить собственный бургер и сделать заказ. Реализована анимация, аутентификация и авторизация. Приложение не адаптировано под разные разрешения экранов. Технологии: React, React DnD, React Router, Redux, TypeScript, Rest API, WebSocket<br>Посмотреть работу: https://alexandermorugin.github.io/react-burger/<br><br></li>    
+    <li><b><a href="https://github.com/AlexanderMorugin/react-burger">Stellar Burgers</a></b> - Многостраничное приложение космической бургерной с возможностью составить собственный бургер и сделать заказ. Реализована анимация, аутентификация и авторизация. Приложение не адаптировано под разные разрешения экранов. Технологии: React, React DnD, React Router, Redux, TypeScript, Rest API, WebSocket<br>Посмотреть работу: https://alexandermorugin.github.io/react-burger/<br><br></li>     
     <li><b><a href="https://github.com/AlexanderMorugin/mesto-project">Место</a></b> - Соцсеть фотографий. Технологии: HTML, CSS, JavaScript, Webpack, Rest API, Адаптивная верстка<br><br></li>
-    <li><b><a href="https://github.com/AlexanderMorugin/hard-01">Велосипеды</a></b> - Лендинг. Технологии: HTML, SASS, JavaScript, Адаптивная верстка<br>Посмотреть работу: https://alexandermorugin.github.io/hard-01/<br><br></li>
-    <li><b><a href="https://github.com/AlexanderMorugin/russian-travel">Путешествие по России</a></b> - Лендинг. Технологии: HTML, CSS, Адаптивная верстка<br>Посмотреть работу: https://alexandermorugin.github.io/russian-travel/<br><br></li>
+
   </ul>
 </p>
 
+<h3 align="center">Работы на основе HTML, CSS, JavaScript</h3>
+<ul>    
+  <li><b><a href="https://github.com/AlexanderMorugin/hard-01">Велосипеды</a></b> - Лендинг. Технологии: HTML, SASS, JavaScript, Адаптивная верстка<br>Посмотреть работу: https://alexandermorugin.github.io/hard-01/<br><br></li>
+    <li><b><a href="https://github.com/AlexanderMorugin/russian-travel">Путешествие по России</a></b> - Лендинг. Технологии: HTML, CSS, Адаптивная верстка<br>Посмотреть работу: https://alexandermorugin.github.io/russian-travel/<br><br></li>
+</ul>
+    
 <h3 align="left">Навыки:</h3>
 
 
-<p align="left">JavaScript / SCSS / TypeScript / React / Redux / Next.js</p>
+<p align="left">JavaScript / SCSS / TypeScript / React / Redux / Next.js / Tailwind</p>
 
 <h3 align="left">Связаться со мной:</h3>
 
