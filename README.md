@@ -5,13 +5,15 @@
   <ul>
     <li><b><a href="https://github.com/AlexanderMorugin/pralinecakes-next-js">Действующий сайт на Next.js для кондитерской</a></b> - Настоящий многостраничный действующий сайт для кондитерской, изначально написанный на React, но затем переделанный на Next.js, для SEO продвижения. Технологии: Next.js, TypeScript.<br>Посмотреть работу: https://pralinecakes.ru/<br><br></li>
     <li><b><a href="https://github.com/AlexanderMorugin/pralinecakes-react">Пет проект на Реакте для кондитерской</a></b> - Многостраничный сайт для кондитерской, изначально созданный на React. Структурирован согласно методологии БЭМ Flat и адаптирован для различных разрешений экрана и браузеров. Технологии: React, React Router, TypeScript.<br>Посмотреть работу: https://pralinecakes.ru/<br><br></li>
-    <li><b><a href="https://github.com/AlexanderMorugin/algososh-project">Визуализация работы алгоритмов</a></b> - Многостраничное приложение алгоритмов разворота строки, рассчета числа Фибоначчи, сортировки массива, стека, очереди, связного списка и принципы их работы. Для компонентов описаны Unit и E2E тесты. Технологии: React, React Router, TypeScript, Jest, Cypress<br>Посмотреть работу: https://alexandermorugin.github.io/algososh-project/<br><br></li>
+
   </ul>
 </p>
 
 <h3 align="center">Работы на основе React</h3>
 <ul>
-  <li><b><a href="https://github.com/AlexanderMorugin/pro-finance">PROФинанс</a></b> - Многостраничное приложение с подгрузкой таблицы данных телефонов. В конце таблицы указана графа "Итого", которая меняется в результате редактирования таблицы или фильтров. Технологии: React, React Router, Redux-Toolkit, TypeScript, SCSS<br>Смотреть работу: https://alexandermorugin.github.io/pro-finance/<br><br>
+  <li><b><a href="https://github.com/AlexanderMorugin/pralinecakes-react">Кондитерская "Пралине"</a></b> - Многостраничный сайт для кондитерской. Написан на React и структурирован согласно методологии БЭМ Flat. Адаптирован для различных разрешений экрана и браузеров. Технологии: React, React Router, TypeScript, SCSS.<br>Смотреть работу: https://pralinecakes.ru/<br><br>
+  </li>
+  <li><b><a href="https://github.com/AlexanderMorugin/pro-finance">PROФинанс</a></b> - Многостраничное приложение с подгрузкой таблицы данных телефонов. В конце таблицы указана графа "Итого", которая меняется в результате редактирования таблицы или фильтров. Технологии: React, React Router, Redux-Toolkit, TypeScript, SCSS, без адаптива<br>Смотреть работу: https://alexandermorugin.github.io/pro-finance/<br><br>
   </li>  
   <li><b><a href="https://github.com/AlexanderMorugin/react-burger">Stellar Burgers</a></b> - Многостраничное приложение космической бургерной с возможностью составить собственный бургер и сделать заказ. Реализована анимация, аутентификация и авторизация. Приложение не адаптировано под разные разрешения экранов. Технологии: React, React DnD, React Router, Redux, TypeScript, Rest API, WebSocket<br>Смотреть работу: https://alexandermorugin.github.io/react-burger/<br><br>
   </li>   
