@@ -24,12 +24,9 @@
 </ul>
     
 <h3 align="left">Навыки:</h3>
-
-
-<p align="left">JavaScript / SCSS / TypeScript / React / Redux / Next.js / Tailwind</p>
+<p align="left">JavaScript / SCSS / TypeScript / React / Redux / Next.js / Tailwind / Zustand / Prisma</p>
 
 <h3 align="left">Связаться со мной:</h3>
-
 <p align="left">
   <a href="https://t.me/alexander_morugin">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30">
@@ -40,7 +37,6 @@
 </p>
 
 <h3 align="left">Моя статистика:</h3>
-
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexanderMorugin&theme=react" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexanderMorugin&theme=react" />
