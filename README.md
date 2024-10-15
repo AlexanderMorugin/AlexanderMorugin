@@ -16,7 +16,7 @@
 <h3 align="left">Навыки:</h3>
 
 
-<p align="left">JavaScript</p>
+<p align="left">JavaScript, SCSS, TypeScript, React, Redux, Next.js</p>
 
 <h3 align="left">Связаться со мной:</h3>
 
