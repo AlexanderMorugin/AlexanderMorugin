@@ -14,7 +14,7 @@
 
 <h3 align="center">Работы на основе HTML, CSS, JavaScript</h3>
 <ul>
-  <li><b><a href="https://github.com/AlexanderMorugin/vanilla-js-market">Продуктовый магазин</a></b> - Геймифицированный сайт-баннер. Технологии: HTML, CSS, JavaScript, Адаптивная верстка<br>Смотреть работу: https://alexandermorugin.github.io/vanilla-js-market/<br><br></li>
+  <li><b><a href="https://github.com/AlexanderMorugin/vanilla-js-market">Продуктовый магазин</a></b> - Геймифицированный сайт-баннер. Технологии: HTML, CSS, JavaScript, Drag and Drop, Адаптивная верстка<br>Смотреть работу: https://alexandermorugin.github.io/vanilla-js-market/<br><br></li>
   <li><b><a href="https://github.com/AlexanderMorugin/hard-01">Велосипеды</a></b> - Лендинг. Технологии: HTML, SASS, JavaScript, Адаптивная верстка<br>Смотреть работу: https://alexandermorugin.github.io/hard-01/<br><br></li>
   <li><b><a href="https://github.com/AlexanderMorugin/russian-travel">Путешествие по России</a></b> - Лендинг. Технологии: HTML, CSS, Адаптивная верстка<br>Смотреть работу: https://alexandermorugin.github.io/russian-travel/<br><br></li>
 </ul>
