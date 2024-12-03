@@ -2,6 +2,8 @@
 
 <h3 align="center">Работы на основе NextJS</h3>
 <ul>
+    <li><b><a href="https://github.com/AlexanderMorugin/pralinecakes-next-tailwind">Кондитерская "Пралине"</a></b> - Рабочий, очень интересный, многостраничный сайт для кондитерской, который приносит заказчику много клиентов. Изначально написанный на React, но затем переделанный на Next.js, для SEO продвижения. Технологии: Next.js, TypeScript, SCSS.<br>Смотреть работу: https://pralinecakes.ru/<br><br>
+  </li>
   <li><b><a href="https://github.com/AlexanderMorugin/pralinecakes-next-tailwind">Кондитерская "Пралине"</a></b> - Рабочий, очень интересный, многостраничный сайт для кондитерской, который приносит заказчику много клиентов. Изначально написанный на React, но затем переделанный на Next.js, для SEO продвижения. Технологии: Next.js, TypeScript, SCSS.<br>Смотреть работу: https://pralinecakes.ru/<br><br>
   </li>
 </ul>
