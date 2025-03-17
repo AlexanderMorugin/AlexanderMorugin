@@ -11,7 +11,7 @@
 
 <h3 align="center">Работы на основе React</h3>
 <ul>
-  <li><b><a href="https://github.com/AlexanderMorugin/pralinecakes-react">Кондитерская "Пралине"</a></b> - Многостраничный сайт для кондитерской. Написан на React и структурирован согласно методологии БЭМ Flat. Адаптирован для различных разрешений экрана и браузеров. Технологии: React, React Router, TypeScript, SCSS.<br>Смотреть работу: https://pralinecakes.ru/<br><br>
+  <li><b><a href="https://github.com/AlexanderMorugin/pralinecakes-react">Кондитерская "Пралине"</a></b> - Многостраничный сайт для кондитерской. Написан на React и структурирован согласно методологии БЭМ Flat. Адаптирован для различных разрешений экрана и браузеров.<br><br>Сайт действующий, в котором сделано много деталей для SEO продвижения.<br><br>Технологии: React, React Router, TypeScript, SCSS.<br>Смотреть работу: https://pralinecakes.ru/<br><br>
   </li>
   <li><b><a href="https://github.com/AlexanderMorugin/pro-finance">PROФинанс</a></b> - Многостраничное приложение с подгрузкой таблицы данных телефонов. В конце таблицы указана графа "Итого", которая меняется в результате редактирования таблицы или фильтров. Технологии: React, React Router, Redux-Toolkit, TypeScript, SCSS, без адаптива.<br>Смотреть работу: https://alexandermorugin.github.io/pro-finance/<br><br>
   </li>  
