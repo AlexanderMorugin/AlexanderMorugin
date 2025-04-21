@@ -1,5 +1,12 @@
 <h1 align="center">Привет, я Frontend-разработчик<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
+<h3 align="center">Работы на основе Vue</h3>
+<ul>
+    <li><b><a href="https://github.com/AlexanderMorugin/vue-task-project">Учебный проект "Список задач"</a></b> - Проект написан на Vue 3 с использованием Vue Router, Vuex, Axios, CSS. Состоит из фонтенд части, которая отрисовывает данные полученные с бесплатного сервера Google FireBase. Туда же передаёт новые данные и изменят их.<br><br>Приложение не адаптированно и применена минимальная стилизация CSS без БЭМ.<br>Смотреть работу можно только клонировав проект и установив зависимости. Подробнее написано в ReadMe файле.
+  </li>
+</ul>
+
+    
 <h3 align="center">Работы на основе NextJS</h3>
 <ul>
     <li><b><a href="https://github.com/AlexanderMorugin/pralinecakes-next-tailwind">Интернет-магазин "Пралине"</a></b> - Проект написан на Next.js 14 - TypeScript, с использованием Tailwind в качестве стилизации. Состоит из фонтенд и бекенд частей, где бекенд сделан тоже в Next.js и хостится на сервере Vercel в виде реляционной PostgreSQL базы данных. Там же располагается и фронт часть. Связь Бека с Фронтом осуществляет Prisma.<br><br>В качестве стейт менеджера используется Zustand, а аутентификацию делает Next-auth. Приложение адаптировано под различные разрешения экрана и браузеров.<br><br>Технологии: Next.js, Next-auth, React, React-hook-form, Zod, React-use, React-hot-toast, TypeScript, Shadcn, Zustand, Prisma, Axios, Tailwind.<br>Смотреть работу: https://pralinecakes-next-tailwind.vercel.app/<br><br>
