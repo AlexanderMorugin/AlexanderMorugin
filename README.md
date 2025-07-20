@@ -36,7 +36,7 @@
 </ul>
     
 <h3 align="left">Навыки:</h3>
-<p align="left">JavaScript / SCSS / TypeScript / React / Redux / Next.js / Tailwind / Zustand / Prisma</p>
+<p align="left">React / Next.js / Vue 3</p>
 
 <h3 align="left">Связаться со мной:</h3>
 <p align="left">
