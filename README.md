@@ -1,5 +1,12 @@
 <h1 align="center">Привет, я Frontend-разработчик<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
+<h2 align="center">Работы на Nuxt JS</h2>
+<ul>
+    <li><b><a href="https://github.com/AlexanderMorugin/nuxt-uveliropt-madde">Проект сайта ювелирного бренда MADDE</a></b> - Проект сайта выполнен на фреймворке Nuxt 4 / Vue 3, с использованием минимально-необходимого набора дополнительных библиотек. Сайт представляет собой визитную карточку компании MADDE, без указания каких либо цен и функций интернет-магазина. Применяется intersection-observer для анимированного появления элементов при скролле страницы. Шапка сайта, также меняется при скролле страницы вниз. Выполнены все SEO мета теги. В CSS оформлении кода применяются множественные flex, grid, анимации.<br>Смотреть работу: https://nuxt-uveliropt-madde.vercel.app/<br><br>
+    </li>
+</ul>
+
+
 <h2 align="center">Работы на Vue 3</h2>
 <ul>
     <li><b><a href="https://github.com/AlexanderMorugin/vue-xwear">Проект интернет-магазина XWEAR</a></b> - Приложение выполнено на JavaScript фреймворке Vue 3, с использованием минимально-необходимого набора дополнительных библиотек: vue-router, pinia, firebase, axios, vuelidate, embla-carousel.<br>Приложение задеплоено на бесплатной облачной платформе Vercel, где расположена фронтенд часть.<br>Бекенд лежит на бесплатной облачной платформе Firebase, сервисы которой предоставляют данному приложению.<br>Приложение полностью адаптировано и имеет три основных брейкпоинта 1024px, 768px, 390px. Минимальная ширина экрана предусматривается как 320px.<br>Не используется TypeScript и SCSS. Не прописаны никакие мета-теги. Сайт представляет собой SPA приложение, т.е. одностраничный пустой документ (глазами поисковых роботов) с выполнением JavaScript кода на стороне клиента.<br>Смотреть работу: https://vue-xwear.vercel.app/<br><br>
@@ -9,7 +16,7 @@
 </ul>
 
     
-<h2 align="center">Работы на NextJS</h2>
+<h2 align="center">Работы на Next JS</h2>
 <ul>
     <li><b><a href="https://github.com/AlexanderMorugin/pralinecakes-next-tailwind">Интернет-магазин "Пралине"</a></b> - Проект написан на Next.js 14 - TypeScript, с использованием Tailwind в качестве стилизации. Состоит из фонтенд и бекенд частей, где бекенд сделан тоже в Next.js и хостится на сервере Vercel в виде реляционной PostgreSQL базы данных. Там же располагается и фронт часть. Связь Бека с Фронтом осуществляет Prisma. В качестве стейт менеджера используется Zustand, а аутентификацию делает Next-auth. Приложение адаптировано под различные разрешения экрана и браузеров. Технологии: Next.js, Next-auth, React, React-hook-form, Zod, React-use, React-hot-toast, TypeScript, Shadcn, Zustand, Prisma, Axios, Tailwind.<br>Смотреть работу: https://pralinecakes-next-tailwind.vercel.app/<br><br>
   </li>    
