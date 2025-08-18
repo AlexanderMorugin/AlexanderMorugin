@@ -36,7 +36,7 @@
 </ul>
     
 <h3 align="left">Навыки:</h3>
-<p align="left">React / Next / Vue 3</p>
+<p align="left">React / Next / Vue / Nuxt</p>
 
 <h3 align="left">Связаться со мной:</h3>
 <p align="left">
