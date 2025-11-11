@@ -32,8 +32,8 @@
   </li>
   <!-- <li><b><a href="https://github.com/AlexanderMorugin/pro-finance">PROФинанс</a></b> - Многостраничное приложение с подгрузкой таблицы данных телефонов. В конце таблицы указана графа "Итого", которая меняется в результате редактирования таблицы или фильтров. Технологии: React, React Router, Redux-Toolkit, TypeScript, SCSS, без адаптива.<br>Смотреть работу: https://alexandermorugin.github.io/pro-finance/<br><br>
   </li>   -->
-  <li><b><a href="https://github.com/AlexanderMorugin/react-burger">Stellar Burgers</a></b> - Многостраничное приложение космической бургерной с возможностью составить собственный бургер и сделать заказ. Реализована анимация, аутентификация и авторизация. Приложение не адаптировано под разные разрешения экранов. Технологии: React, React DnD, React Router, Redux, TypeScript, Rest API, WebSocket.<br>Смотреть работу: https://alexandermorugin.github.io/react-burger/<br><br>
-  </li>   
+  <!-- <li><b><a href="https://github.com/AlexanderMorugin/react-burger">Stellar Burgers</a></b> - Многостраничное приложение космической бургерной с возможностью составить собственный бургер и сделать заказ. Реализована анимация, аутентификация и авторизация. Приложение не адаптировано под разные разрешения экранов. Технологии: React, React DnD, React Router, Redux, TypeScript, Rest API, WebSocket.<br>Смотреть работу: https://alexandermorugin.github.io/react-burger/<br><br>
+  </li>    -->
 </ul>
 
 <!-- <h2 align="center">Работы на основе HTML, CSS, JavaScript</h2>
