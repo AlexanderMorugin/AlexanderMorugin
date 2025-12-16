@@ -46,7 +46,7 @@
 </ul> -->
     
 <h2 align="left">Навыки:</h2>
-<p align="left">Vue / Nuxt / React / Next / JavaScript</p>
+<p align="left">Vue / Nuxt / React / Next / JavaScript / TypeScript</p>
 
 <h2 align="left">Связаться со мной:</h2>
 <p align="left">
