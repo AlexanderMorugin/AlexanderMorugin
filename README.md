@@ -2,7 +2,7 @@
 
 <h2 align="center">Работы на Nuxt JS</h2>
 <ul>
-    <li><b><a href="https://pralineshop.ru/">Интернет-магазин Пралине-Shop</a></b> - действующий, выполнен на фреймворке Nuxt 4, Nitro, Pinia, Drizzle, SCSS, PostgreSQL.<br><br>
+    <li><b><a href="https://pralineshop.ru/">Пралине-Shop</a></b> - действующий интернет-магазин, выполнен на фреймворке Nuxt 4, Nitro, Pinia, Drizzle, SCSS, PostgreSQL.<br><br>
     </li>
     <li><b><a href="https://github.com/AlexanderMorugin/book-drizzle">Проект Book Drizzle</a></b> - Проект сайта персонального трекера чтения книг, выполнен на фреймворке Nuxt 4 (SSR, Composition API, Setup-синтаксис), с использованием собственной структуры бекенда Nitro, а также Pinia, Drizzle ORM, Vuelidate, БЭМ SCSS, Базы данных PostgreSQL развёрнутой в облачном сервере Reg.ru и запущеной в докер контейнере. Объектное хранилище S3, в которое загружаются картинки обложек книг, тоже находится на облачном сервере Reg.ru. Связь бекенда с S3 осуществляется с помощью AWS SDK. Приложение полностью адаптировано.<br>Смотреть работу: https://book-drizzle.vercel.app/<br><br>
     </li>
